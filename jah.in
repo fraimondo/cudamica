@@ -1,0 +1,14 @@
+devices 0
+datafile datasets/102400s128c.fdt
+sphering 1
+spherefile datasets/102400s128c.sph
+nchannels 128
+nsamples 51200
+nmmodels 2
+nsdm 2
+updateRho 2
+mindll 0.01
+iterwin 50
+doNewton on
+removeMean on
+maxiter 1
